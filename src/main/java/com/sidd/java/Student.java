@@ -10,8 +10,8 @@ public class Student {
 
     }
 
-    public Student(int roll,String name, String dept, String address, String email){
-        this.roll=roll;
+    public Student(int rolll,String name, String dept, String address, String email){
+        this.rolll=rolll;
         this.name=name;
         this.address=address;
         this.dept=dept;
