@@ -11,7 +11,7 @@ public class Student {
     }
 
     public Student(int rolll,String name, String dept, String address, String email){
-        this.rolll=rolll;
+        this.roll=rolll;
         this.name=name;
         this.address=address;
         this.dept=dept;
